@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629108089291",
+    "project_id": "firenoter",
+    "storage_bucket": "firenoter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629108089291:android:e90ac05288946fa444d64e",
+        "android_client_info": {
+          "package_name": "com.example.firenoter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2HGFD6q1PYOFwKT6uCUJlPEDaZCIeWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
